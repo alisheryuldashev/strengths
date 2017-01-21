@@ -6,7 +6,7 @@ html {
 body {
   min-height: 100%;
   margin: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 60px;
   padding: 0px;
   background-image: url("bgi-min.jpeg");
   background-size: cover;
