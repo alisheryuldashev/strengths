@@ -1,4 +1,4 @@
-/* my original script (with no bootstrap support)
+my original script (with no bootstrap support)
 
 $(document).ready(function() {
   $(".square").mouseenter(function() {
@@ -14,8 +14,8 @@ $(document).ready(function() {
   $(".content").delay(100).stop(true,true).animate({"opacity":"0"}, 400);
   });
 });
-*/
 
+/*
 // Revised script with bootstrap support (big thanks to @bkandiyal for helping me with this)
 
 $(document).ready(function() {
@@ -58,6 +58,6 @@ $(document).ready(function() {
     $(item).find(".content").delay(100).stop(true,true).animate({"opacity":"0"}, 400);
   }
 });
-  
+*/
     
 
