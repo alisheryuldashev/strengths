@@ -1,4 +1,4 @@
-my original script (with no bootstrap support)
+//my original script (with no bootstrap support)
 
 $(document).ready(function() {
   $(".square").mouseenter(function() {
