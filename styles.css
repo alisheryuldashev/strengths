@@ -3,7 +3,8 @@ html {
   min-height: 100%;
 }
 
-body {    
+body { 
+  margin: 0px;
   margin-bottom: 60px;
   padding: 0px;
   background-image: url("bgi-min.jpeg");
