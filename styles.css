@@ -5,8 +5,8 @@ html {
 
 body { 
   height: auto;
-  margin: 0px;
-  margin-bottom: 190px;
+  margin: auto;
+ 
   padding: 0px;
   background-image: url("bgi-min.jpeg");
   background-size: cover;
