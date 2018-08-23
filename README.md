@@ -5,7 +5,7 @@ Back in 2016 I took the StrengthsFinder assessment and I loved the results that 
 
 So, I decided to build this simple webpage to remind myself of what makes me special in a workplace. 
 
-This was my first ever independent project in web development. I used html/css/jquery to build this and it took me 2 full days to complete this page. 
+I used html/css/jquery to build this page. 
 
 Simply use your mouse to hover over each title to see more.
 
